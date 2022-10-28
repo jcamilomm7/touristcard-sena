@@ -1,1 +1,0 @@
-# touristcard-sena
